@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifatul</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Dot Net**
 
